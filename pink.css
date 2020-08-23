@@ -1,0 +1,10 @@
+.logo a::before{
+    border-top:4px solid #ec1839;
+    border-left:4px solid #ec1839;
+}
+.logo a::after{
+    border-right:4px solid #ec1839;
+    border-bottom:4px solid #ec1839;
+}
+
+
